@@ -167,3 +167,4 @@ cython_debug/
 #.idea/
 .activity_key.txt.swp
 models
+.idea/
